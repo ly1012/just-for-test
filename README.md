@@ -2,6 +2,6 @@
 测试用途
 
 <details>
-  <summary><b>展开/收起</b></summary>
+  <summary>展开/收起</summary>
 恭喜你发现我了。
 </details>
